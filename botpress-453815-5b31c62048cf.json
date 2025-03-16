@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "botpress-453815",
+  "private_key_id": "5b31c62048cf93d150fba1d0a0261ac50d387221",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDM9F5gDvkhVAM3\nIyEEI94QfzpRV30jZ9+oTy+BTT8945jn+O3LKqG5cVc4KdncCzthVk6GChAnrqEI\nZZLI/vL2EZmhRq7qqoWr1r/lA+ju9X5QLMfX8lA2g7/Fd+/IJtvqTM6eyTxN9Cbr\n048Fpga/b/azci2UUKDpqmfyRsUIht4mSYoaWkBVcyGFeFNCA1L4HrNkC1tVMNfi\nBrsNwCTmAZ32iW3cWX5/nBCIHZ/cqBcAr0fFe/IcQ+WVwWOX1Li70/4xhv+W6vCw\nogKnbcFWB7xfj1PIipe8OAlWV0MObaYLS+/oaihKZJauAcf3MRXt6L97UnNB1cqv\nMALC72sTAgMBAAECggEAFl2QXZZ6CfCwt81F5r1sl+Dvtz1UiDmR8ZGlPcyf2xwW\nwob/7rdvQIelce6Mj0j2fjpnL+oHNfKw20liSZFwvU4nCq9mRRtoojDkGJS4UDif\n7msvP68koQj4M2Sm2PD3TKEnEbLPZDOsJPidgeCf7zduSh9qk+XHOYMr/AdMVxAB\nPenlynoh1/NL+mQERw7RECqYAsdSRiDZPIPpJwElMkpe4snfhC/xHNLG6mW6K5Xy\nRBnVZ2l1RxFZ9KH8uxE2XUHvSX1eDYokbZ+plbdxAIHuVFwpVrjIPONpwkLAIS42\nnRx49wjjHe951QEOomPZ1ftvDTHfmdsK98k91mOW0QKBgQDwy6Od1M2G0HBg5Voy\neuub73zyk8UgZcHR9eubgAknJCdmaJUQmoTAKDmqbEFuE/R9V40rdVUT1cGvZ3Jv\nJrM8bLDl/MLDK0+U4oSM/81PG15241qJlMBoaxmJh7+aWTUURQ66eVVxwjgm04f8\n42RQQIqXUzIvLIhRja33ErFbaQKBgQDZ5WA9LkXx3whEfyNRgU+r5t1h+h6magSm\nD1XynvIhd0T0NHMeUF8hqMzOL1uYb285OZb9ZoqF6ZV+Krsa326J4f8r/Gyfx/D1\npvN/19Gm1sTyjDaXJlB03joZOk7J3odvX/eebckeYc2WFADvgGMbTo8Ng5lb01f3\nuRuchQ6vGwKBgFKmo1eGdrFilGA9+TLAjGSu1GVzIUOYiemmjqOGVB3yQ+/bz+au\nEwjeBcUgeWjuQopPZe5XzMcNJPku+dF7KCSCbknS84sIL7277qFzICaaD1ehfC8j\nNtPghxh01uiE3DpD5eVNxm1Qq/NvwgqkhochUDDW5q/YikXr6p2W9feZAoGBAMhM\nRk93Pey9LQhqJrlBuU84BcGO/qXTRzqvVj6VRdbloIkrvbbcAtcaKEpQ1k4mAYQF\nIHsHy8aVlkpIVX66bQ5qpPp2LBQk46etNKEMbziCrMCZi4UeP09vCNEv/EUtPipv\neVw1Z296UFXpRYLj7jan3HB7zHnQqUia7HrRBVKJAoGBAL/zPJwqeZ+So2InVC9C\ncklfrDa8kw7XBi5oLD7c5ce21abctdKTGuwTWa18J4/vQCUTzxeGB2N9b1r0S3El\nyPI51qWAvPNHoBh0tSz8adSIhHlNGzgEVS0TgQzFPn2yZWetilUZHlqhHYWyHuww\nygxtrclIEF4yVorqBVSlYmuO\n-----END PRIVATE KEY-----\n",
+  "client_email": "ecexpert@botpress-453815.iam.gserviceaccount.com",
+  "client_id": "106120102295594560906",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ecexpert%40botpress-453815.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
